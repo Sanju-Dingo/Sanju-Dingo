@@ -1,134 +1,137 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080b12,100:174ea6&height=200&section=header&text=SANJITH%20S&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080b0a,50:101d18,100:163326&height=180&section=header&text=SANJITH%20S&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=CODE.%20CREATE.%20EVOLVE.&descSize=15&descAlignY=68"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=2979FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Building+Intelligent+Applications"/>
+### Building systems. Exploring intelligence.
 
-</div>
+`Software Engineering` · `Artificial Intelligence` · `Automation`
 
----
-
-## Profile
-
-Student developer focused on full-stack development, artificial intelligence, and data-driven applications.
-
-Passionate about building intelligent systems, scalable web applications, and practical solutions that combine software engineering, automation, and AI technologies.
-
-Currently exploring AI-powered platforms, backend development, and modern web technologies.
-
----
-
-## Technology Stack
-
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-
-### Web Development
-
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
-
-### AI and Machine Learning
-
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-000000?style=for-the-badge&logo=scikitlearn)
-![LLM Applications](https://img.shields.io/badge/LLM_Applications-000000?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-000000?style=for-the-badge)
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
-![Hibernate](https://img.shields.io/badge/Hibernate-000000?style=for-the-badge&logo=hibernate)
-
-### Development and Testing Tools
-
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
-![Selenium](https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=selenium)
-![Maven](https://img.shields.io/badge/Maven-000000?style=for-the-badge&logo=apachemaven)
-![Swagger](https://img.shields.io/badge/Swagger-000000?style=for-the-badge&logo=swagger)
-
----
-
-## Projects
-
-### GuideWell – AI
-
-AI-powered chatbot for groundwater data retrieval using natural language queries.
-
-*Collaborative Team Project*
-
-**Key Features**
-
-- Natural language interaction with groundwater datasets
-- Fast retrieval of water level, quality, and hydrogeological data
-- Conversational interface for simplified information access
-
-**Technologies:** Python · Ollama · AI Chatbot Integration
-
----
-
-### UrbanNova – AI
-
-AI-powered urban infrastructure monitoring and decision-support system.
-
-*Collaborative Team Project*
-
-**Key Features**
-
-- Image processing for infrastructure condition monitoring
-- Rule-based expert system for automated recommendations
-- Heatmap visualization for high-risk infrastructure zones
-- Analytics dashboards for administrative insights
-
-**Technologies:** Computer Vision · Multimodal Learning · Data Visualization · AI Analytics
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Sanju-Dingo&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sanju-Dingo&theme=github-dark&hide_border=true&area=true"/>
-
-</div>
-
----
-
-## Connect
-
-<div align="center">
+<br/>
 
 <a href="https://www.linkedin.com/in/sanjith-s-630491326/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5"/>
+<img src="https://img.shields.io/badge/LinkedIn-101d18?style=for-the-badge&logo=linkedin&logoColor=4ade80"/>
 </a>
-
 <a href="mailto:sanjith.skvv@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-101d18?style=for-the-badge&logo=gmail&logoColor=4ade80"/>
 </a>
-
 <a href="https://github.com/Sanju-Dingo">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-101d18?style=for-the-badge&logo=github&logoColor=4ade80"/>
 </a>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080b12,100:174ea6&height=100&section=footer"/>
+---
+
+## 01 / About
+
+I enjoy turning ideas into functional software, exploring intelligent systems, and solving problems through technology.
+
+My interests lie at the intersection of software engineering, artificial intelligence, and application development.
+
+Currently focused on strengthening my technical foundations and building practical, real-world applications.
+
+---
+
+## 02 / Technical Arsenal
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-101d18?style=flat-square&logo=python&logoColor=4ade80)
+![Java](https://img.shields.io/badge/Java-101d18?style=flat-square&logo=openjdk&logoColor=4ade80)
+![JavaScript](https://img.shields.io/badge/JavaScript-101d18?style=flat-square&logo=javascript&logoColor=4ade80)
+
+**Application Development**
+
+![HTML5](https://img.shields.io/badge/HTML5-101d18?style=flat-square&logo=html5&logoColor=4ade80)
+![CSS3](https://img.shields.io/badge/CSS3-101d18?style=flat-square&logo=css3&logoColor=4ade80)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-101d18?style=flat-square&logo=springboot&logoColor=4ade80)
+![Flask](https://img.shields.io/badge/Flask-101d18?style=flat-square&logo=flask&logoColor=4ade80)
+![REST API](https://img.shields.io/badge/REST_API-101d18?style=flat-square&logoColor=4ade80)
+
+**Artificial Intelligence**
+
+![Ollama](https://img.shields.io/badge/Ollama-101d18?style=flat-square&logo=ollama&logoColor=4ade80)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-101d18?style=flat-square&logo=scikitlearn&logoColor=4ade80)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-101d18?style=flat-square)
+![LLM Applications](https://img.shields.io/badge/LLM_Applications-101d18?style=flat-square)
+
+**Database and Persistence**
+
+![MySQL](https://img.shields.io/badge/MySQL-101d18?style=flat-square&logo=mysql&logoColor=4ade80)
+![Hibernate](https://img.shields.io/badge/Hibernate-101d18?style=flat-square&logo=hibernate&logoColor=4ade80)
+
+**Development and Automation**
+
+![Git](https://img.shields.io/badge/Git-101d18?style=flat-square&logo=git&logoColor=4ade80)
+![Docker](https://img.shields.io/badge/Docker-101d18?style=flat-square&logo=docker&logoColor=4ade80)
+![Selenium](https://img.shields.io/badge/Selenium-101d18?style=flat-square&logo=selenium&logoColor=4ade80)
+![Maven](https://img.shields.io/badge/Maven-101d18?style=flat-square&logo=apachemaven&logoColor=4ade80)
+![Swagger](https://img.shields.io/badge/Swagger-101d18?style=flat-square&logo=swagger&logoColor=4ade80)
+
+---
+
+## 03 / Selected Work
+
+### `PROJECT_01` — GuideWell AI
+
+> Natural language intelligence for groundwater data retrieval.
+
+Collaboratively developed an AI-powered chatbot designed to simplify access to groundwater information through conversational queries.
+
+- Natural language interaction with groundwater datasets.
+- Retrieval of water levels, quality, and hydrogeological information.
+- Conversational interface for accessible data exploration.
+
+**Stack:** `Python` `Ollama` `AI Chatbot Integration`
+
+**Development:** Collaborative Team Project
+
+---
+
+### `PROJECT_02` — UrbanNova AI
+
+> Intelligent infrastructure monitoring for smarter urban environments.
+
+Collaboratively developed an AI-powered decision-support system focused on monitoring urban infrastructure conditions.
+
+- Image-based infrastructure condition monitoring.
+- Rule-based expert system for automated recommendations.
+- Heatmap visualization of high-risk infrastructure zones.
+- Analytical dashboards for administrative insights.
+
+**Stack:** `Computer Vision` `Multimodal Learning` `Data Visualization` `AI Analytics`
+
+**Development:** Collaborative Team Project
+
+---
+
+## 04 / Development Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sanju-Dingo&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4ade80&icon_color=4ade80&text_color=c9d1d9"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanju-Dingo&layout=compact&hide_border=true&bg_color=0d1117&title_color=4ade80&text_color=c9d1d9"/>
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Sanju-Dingo&hide_border=true&background=0D1117&ring=4ADE80&fire=4ADE80&currStreakLabel=4ADE80&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"/>
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sanju-Dingo&bg_color=0d1117&color=4ade80&line=4ade80&point=ffffff&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+`Always learning. Always building.`
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Sanju-Dingo&label=Profile%20Views&color=163326&style=flat-square"/>
+
+</div>
